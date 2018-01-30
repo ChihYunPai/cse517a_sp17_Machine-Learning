@@ -1,0 +1,12 @@
+
+This is your grade report from the Autograder ran on 31-Mar-2017 00:02:21. 
+For this project we ran 1 evaluation(s) on your committed code.
+
+	On the kernel_evaluation you scored 60 points with our tests.
+	Unfortunately, you failed 2 test(s) on this evaluation:
+		Failed Test 10: H is incorrect 
+		Failed Test 14: bias incorrectMatrix dimensions must agree.
+	Your implementation for kernel was competitive! You scored 17 points based on the efficiency or quality of your code.
+
+
+For this project, you scored a total of 77 points.

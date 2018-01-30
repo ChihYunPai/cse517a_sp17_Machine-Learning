@@ -1,0 +1,23 @@
+
+This is your grade report from the Autograder ran on 24-Mar-2017 02:19:34. 
+For this project we ran 1 evaluation(s) on your committed code.
+
+	On the kernel_evaluation you scored 25 points with our tests.
+	Unfortunately, you failed 7 test(s) on this evaluation:
+		Failed Test 1: RBF kernel between two identical data sets should return diagonals of all-ones. Error: File: /home/warehouse/cse517a/cse517a/autograder/grading_temp/project3/paichihyun/computeK.m Line: 38 Column: 15
+Creating a string using double quotes is not supported.  Use the string function.
+		Failed Test 2: RBF kernel seems incorrect. Error: File: /home/warehouse/cse517a/cse517a/autograder/grading_temp/project3/paichihyun/computeK.m Line: 38 Column: 15
+Creating a string using double quotes is not supported.  Use the string function.
+		Failed Test 3: Polynomial kernel with degree p=0 should return all-ones matrix. Error: File: /home/warehouse/cse517a/cse517a/autograder/grading_temp/project3/paichihyun/computeK.m Line: 38 Column: 15
+Creating a string using double quotes is not supported.  Use the string function.
+		Failed Test 4: Polynomial kernel with degree p=1 should return linear kernel +1. Error: File: /home/warehouse/cse517a/cse517a/autograder/grading_temp/project3/paichihyun/computeK.m Line: 38 Column: 15
+Creating a string using double quotes is not supported.  Use the string function.
+		Failed Test 5: Polynomial kernel is incorrect. Error: File: /home/warehouse/cse517a/cse517a/autograder/grading_temp/project3/paichihyun/computeK.m Line: 38 Column: 15
+Creating a string using double quotes is not supported.  Use the string function.
+		Failed Test 6: Dimensions of RBF kernel function not correct. Error: File: /home/warehouse/cse517a/cse517a/autograder/grading_temp/project3/paichihyun/computeK.m Line: 38 Column: 15
+Creating a string using double quotes is not supported.  Use the string function.
+		Failed Test 11~13: Linear SVM classification using trainsvm and svmclassfy does not work Error: File: /home/warehouse/cse517a/cse517a/autograder/grading_temp/project3/paichihyun/computeK.m Line: 38 Column: 15
+Creating a string using double quotes is not supported.  Use the string function.
+
+
+For this project, you scored a total of 25 points.

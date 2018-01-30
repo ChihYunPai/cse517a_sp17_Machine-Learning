@@ -1,0 +1,13 @@
+
+This is your grade report from the Autograder ran on 20-Mar-2017 02:50:36. 
+For this project we ran 1 evaluation(s) on your committed code.
+
+	On the kernel_evaluation you scored 50 points with our tests.
+	Unfortunately, you failed 4 test(s) on this evaluation:
+		Failed Test 3: Polynomial kernel with degree p=0 should return all-ones matrix. 
+		Failed Test 4: Polynomial kernel with degree p=1 should return linear kernel +1. 
+		Failed Test 5: Polynomial kernel is incorrect. 
+		Failed Test 10: H is incorrect 
+
+
+For this project, you scored a total of 50 points.
